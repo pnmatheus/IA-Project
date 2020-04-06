@@ -35,7 +35,6 @@ dependencies:
   - shap=0.27.0
   - scikit-learn
   - spacy=2.0.16
-  - sqlite=3.29.0
   - statsmodels=0.10.1
   - tensorflow=1.5.0
   - tqdm=4.32.1
