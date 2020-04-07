@@ -1,4 +1,4 @@
 *.DS_Store*
-*.gitattributes*
+.gitattributes
 .Rhistory
-.ipynb_checkpoints/BikesAnalytics-checkpoint.ipynb
+

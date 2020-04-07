@@ -1,4 +1,4 @@
-name: fiap-env
+name: fiapnac-env
 channels:
   - conda-forge
   - https://repo.anaconda.com/pkgs/free
